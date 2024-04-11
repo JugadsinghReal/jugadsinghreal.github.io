@@ -7,3 +7,17 @@
 width: 200px;
 height: 200px;
 }
+
+.col{
+    text-align: center;
+    border: solid 1px black;
+    background-color: darkred;
+}
+
+
+
+@media  screen and (max-width: 1000px) {
+    *{
+        margin-left: 0px;
+    }
+}
