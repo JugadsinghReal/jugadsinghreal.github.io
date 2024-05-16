@@ -1,43 +1,21 @@
 *{
-    margin-left: 20px;
-    margin-right: 20px;
+  
+    padding: 20px;
     row-gap: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.logo{
-width: 200px;
-height: 200px;
-}
+
 
 .home{
-    text-align: center;
-    border: solid 1px black;
     background-color: darkred;
 }
 
 
 
 
-.proj{
-    text-align: center;
-    border: 1px solid black;
-}
 
-.proj-img{
-    width: 300px;
-}
 
-.link-button{
-    background-color: chartreuse;
-    height: 50px;
-    width: 150px;
-    border: none;
-    border-radius: 10px;
-}
 
-@media  screen and (max-width: 1000px) {
-    *{
-        
-    }
-}
+
+
