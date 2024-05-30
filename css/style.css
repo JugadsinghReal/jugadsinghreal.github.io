@@ -5,15 +5,29 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+body{
+    background-color:royalblue
+}
 
 
 .home{
     background-color: darkred;
 }
 
+.portfoliotitel , .portfoliotxt , .portfoliotxt2{
+    background-color: orange;
+    border: black solid 3px;
+    border-radius: 20px;
+}
 
 
+.portfoliotxt{
 
+}
+
+.portfoliotxt2{
+
+}
 
 
 
