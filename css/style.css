@@ -21,15 +21,15 @@ body{
 }
 
 
-.portfoliotxt{
+.proj{
+    background-color: orange;
 
+    border-radius: 20px;
 }
 
-.portfoliotxt2{
-
+.goback{
+    border: 3px solid black;
+    background-color: green;
 }
-
-
-
 
 
