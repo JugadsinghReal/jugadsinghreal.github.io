@@ -45,8 +45,21 @@ a:hover{
     height: 300px;
 }
 .navbar{
-    background-color: orange;
+    background-color: #ffa500;
     border: black solid 3px;
     border-radius: 20px;
     height: auto;
+}
+.boxinfo{
+    text-align: center;
+    background-color: #ffa500;
+    border: black solid 3px;
+    border-radius: 20px;
+}
+.colorimg{
+    height: 300px;
+}
+
+.projectimg{
+    height: 270px;
 }
