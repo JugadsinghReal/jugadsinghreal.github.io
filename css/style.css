@@ -1,6 +1,4 @@
 *{
-  
-    padding: 20px;
     row-gap: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -40,5 +38,15 @@ a:hover{
 }
 
 .img-fluid{
+    height: auto;
+}
+
+.homeimg{
+    height: 300px;
+}
+.navbar{
+    background-color: orange;
+    border: black solid 3px;
+    border-radius: 20px;
     height: auto;
 }
