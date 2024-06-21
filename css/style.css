@@ -37,13 +37,9 @@ a:hover{
     color: black;
 }
 
-.img-fluid{
-    height: auto;
-}
 
-.homeimg{
-    height: 300px;
-}
+
+
 .navbar{
     background-color: #ffa500;
     border: black solid 3px;
@@ -56,10 +52,5 @@ a:hover{
     border: black solid 3px;
     border-radius: 20px;
 }
-.colorimg{
-    height: 300px;
-}
 
-.projectimg{
-    height: 270px;
-}
+
